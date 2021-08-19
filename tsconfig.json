@@ -1,4 +1,8 @@
 {
+  "files": [
+    "src/ts/test0.ts",
+    "src/ts/test1.ts"
+  ],
   "compilerOptions": {
     "target": "es5",
     "module": "commonjs",

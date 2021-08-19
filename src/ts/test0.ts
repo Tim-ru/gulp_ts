@@ -1,6 +1,6 @@
 class App {
     public static main(): number {
-        console.log('asdasd');
+        console.log('App');
         return 0
     }
 }
