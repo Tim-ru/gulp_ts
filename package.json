@@ -1,0 +1,21 @@
+{
+  "name": "gulp_tsgulp_ts",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "scripts": {
+    "build": "gulp build",
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^2.12.2",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "readable-stream": "^2.3.7",
+    "rxjs": "^6.6.6"
+  },
+  "description": ""
+}
